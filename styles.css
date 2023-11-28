@@ -1,0 +1,29 @@
+body{
+    font: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header{
+    margin: 0px;
+    color: white;
+    font-size: x-large;
+    background-color: black;
+    line-height: 100px;
+}
+button{
+    padding: 3px;
+    font-size: 12pt;
+    padding: 30px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    border: 3px solid grey;
+    color: white;
+}
+input{
+    border-radius: 20px;
+    padding: 7px;
+    font-size: 15pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
